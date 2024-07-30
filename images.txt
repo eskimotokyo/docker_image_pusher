@@ -1,6 +1,6 @@
-tabulario/spark-iceberg:latest
-tabulario/iceberg-rest:latest
-minio/minio:latest
-minio/mc:latest
+tabulario/spark-iceberg
+tabulario/iceberg-rest
+minio/minio
+minio/mc
 flink:1.18.0
 mysql:8.0.18

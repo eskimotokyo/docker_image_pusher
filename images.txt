@@ -6,4 +6,5 @@ flink:1.18.0
 mysql:8.0.18
 apache/doris:2.0.0_alpha-be-x86_64
 apache/doris:2.0.0_alpha-fe-x86_64
-
+selectdb/doris.fe-ubuntu
+selectdb/doris.be-ubuntu

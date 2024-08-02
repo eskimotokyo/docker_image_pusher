@@ -4,3 +4,6 @@ minio/minio
 minio/mc
 flink:1.18.0
 mysql:8.0.18
+apache/doris:2.0.3-fe-x86_64
+apache/doris:2.0.3-be-x86_64
+

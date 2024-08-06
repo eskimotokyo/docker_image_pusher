@@ -7,3 +7,4 @@ mysql:8.0.18
 apache/doris:2.0.0_alpha-be-x86_64
 apache/doris:2.0.0_alpha-fe-x86_64
 dinkydocker/dinky-standalone-server:1.1.0-flink1.17
+flink:1.17-scala_2.12-java8

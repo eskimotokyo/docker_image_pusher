@@ -5,7 +5,7 @@ minio/mc
 flink:1.18.0
 mysql:8.0.18
 dinkydocker/dinky-standalone-server:1.1.0-flink1.17
-dinkydocker/dinky:1.1.0-flink1.18
+dinkydocker/dinky-standalone-server:1.1.0-flink1.18
 flink:1.17-scala_2.12-java8
 postgres:15.7
 openjdk:8u342-jdk

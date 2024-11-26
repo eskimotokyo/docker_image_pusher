@@ -13,3 +13,4 @@ openjdk:8u342-jdk
 flink:1.18.1-scala_2.12-java8
 yagagagaga/doris-standalone:3.0.2
 apache/superset
+redis:latest
